@@ -1,7 +1,7 @@
 # Langchain Q&A Bot: Building Your First Intelligent Agent
 
 For a detailed explanation of the code and more use cases, check out the full article on Medium:
-[Build Your First Intelligent Agent: A Simple Q&A Bot]()
+[Build Your First Intelligent Agent: A Simple Q&A Bot](https://medium.com/@arsanatl/build-your-first-intelligent-agent-a-simple-q-a-bot-b41113d12155)
 
 This repository contains the Python code for building a simple Q&A bot using Langchain and an open-source pre-trained language model from Hugging Face. The project is part of an article series on Langchain and Langgraph for agentic workflows with open-source LLMs.
 
